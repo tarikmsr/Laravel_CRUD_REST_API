@@ -96,3 +96,7 @@ http://127.0.0.1:8000/api/documentation
 1. Test with Postman - https://www.getpostman.com/collections/5642915d135f376b84af [Click to open with post man]
 1. Test with Swagger.
 1. Swagger Limitation: Image can not be uploaded throw Swagger, it can be uploaded throw Postman.
+
+
+## this is from : 
+https://github.com/ManiruzzamanAkash/Laravel-Advanced-CRUD-API
